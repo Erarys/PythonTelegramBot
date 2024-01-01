@@ -1,0 +1,8 @@
+aiogram==3.0.0
+python-dotenv==1.0.0
+pydantic==2.3.0
+pydantic_settings==2.0.3
+openai==0.28.0
+sqlalchemy==2.0.22
+PyMySQL~=1.1.0
+llama_index==0.8.54

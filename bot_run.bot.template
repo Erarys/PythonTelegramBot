@@ -1,0 +1,16 @@
+@echo off
+
+call %~dp0venv\Scripts\activate%
+
+set TOKEN=
+set ADMIN_ID=
+set DB_HOST=
+set DB_PORT=
+set DB_USER=
+set DB_PASS=
+set DB_NAME=
+set OPENAI_API_KEY=
+
+python main.py
+
+pause
